@@ -2,6 +2,151 @@
 
 # Road Damage Detection using YOLO Models
 
+
+
+Below is a **clean, well-structured README.md** you can directly use in your GitHub repository.
+It is written in clear technical language and formatted for easy understanding.
+
+---
+
+# Road Damage Detection Using Different Versions of YOLO
+
+This repository provides a **comparative implementation and analysis** of road damage detection using multiple YOLO versions, including **YOLOv7, YOLOv8, and YOLOv11**.
+The project allows users to test images and videos, compare results across models, and generate a **final prediction by selecting the best-performing model output**.
+
+---
+
+## 📌 Project Overview
+
+* Implemented **YOLOv7, YOLOv8, and YOLOv11** models
+* Each model folder contains:
+
+  * Trained `best.pt` weights
+  * Inference results on the dataset
+* A **comparative analysis report** is included
+* A **Streamlit-based application** (`app.py`) selects the best prediction among all models and displays the final road damage detection output
+
+---
+
+## 📁 Repository Structure
+
+Each YOLO version has its own directory with trained models, inference scripts, and results.
+
+### YOLOv8
+
+* Contains `image+videorunner.py` to run inference on:
+
+  * Images
+  * Videos
+* Stores inference results in **JSON format**
+* Example results path:
+
+  ```
+  Road_Damage_Detection_Using_Different_Versions_Of_Yolo/
+  └── using Yolov8/
+      └── Videos/
+  ```
+
+  * Includes results for:
+
+    * Videos
+    * Car-view images
+    * Snapshot images
+
+### YOLOv11
+
+* Contains an `infer/` directory
+* Stores **bounding-box annotated images** from inference
+
+---
+
+## 🧠 Final Model Selection Logic
+
+The file `app.py` performs the **final inference pipeline**, where:
+
+* Outputs from all YOLO versions are evaluated
+* The best-performing model’s prediction is selected
+* Final road damage detection results are displayed to the user
+
+---
+
+## 🚀 Using the Models Directly (Minimal Setup)
+
+To avoid unnecessary directories and run only the final application, you can extract the trained models and organize them as follows:
+
+```
+project/
+│
+├── app.py
+├── models/
+│   ├── yolov7.pt
+│   ├── yolov8s.pt
+│   ├── yolov8m.pt
+│   ├── yolov11s.pt
+│   └── yolov11m.pt
+├── requirements.txt
+```
+
+> 📌 The `.pt` files can be found inside the `runs/` directory of each YOLO model folder.
+
+---
+
+## 🛠 Installation & Run Instructions
+
+### 1️⃣ Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### 2️⃣ Activate the Virtual Environment
+
+**Windows**
+
+```bash
+venv\Scripts\activate
+```
+
+**Linux / macOS**
+
+```bash
+source venv/bin/activate
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Arrange the Models
+
+Place all required `.pt` files inside the `models/` directory as shown above.
+
+### 5️⃣ Run the Application
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📊 Features
+
+* Supports **image and video input**
+* Compares predictions from multiple YOLO versions
+* Displays **final optimized road damage detection**
+* Easy-to-use **Streamlit interface**
+
+---
+
+## 📄 Notes
+
+* Ensure compatible versions of PyTorch and YOLO are installed as specified in `requirements.txt`
+* GPU support is recommended for faster inference
+* JSON-based results allow easy integration with other systems
+
+---
 ## Model Performance Comparison
 
 | Model       | Precision | Recall  | mAP@50  | mAP@50-95 |
@@ -13,20 +158,4 @@
 | YOLOv11-M   | 0.71      | 0.68    | 0.70    | 0.47      |
 
 ---
-
-## Abstract
-
-**Road safety** is heavily dependent on timely detection and classification of road surface defects such as potholes, cracks, and lane-damaging anomalies, which may cause vehicle instability, traffic accidents, and long-term infrastructural degradation. With modern advances in deep learning and real-time computer vision, object detection architectures such as the YOLO (You Only Look Once) family have become widely adopted for autonomous driving and infrastructure inspection tasks.
-
-This paper presents a detailed comparative analysis of three generations of YOLO models—YOLOv7, YOLOv8 (small and medium variants), and YOLOv11 (small and medium variants)—trained on the publicly available Road Damage Dataset hosted on Roboflow. The evaluation focuses on precision, recall, mAP@50, and mAP@50:95 in order to determine architectural efficiency and real-world deployment suitability.
-
-Results indicate that YOLOv8-M achieves the highest overall accuracy with a mean Average Precision (mAP@0.5) of 0.7916 and mAP@0.5:0.95 of 0.5770, surpassing YOLOv7 and YOLOv11 models trained for equal or fewer epochs. YOLOv11 models demonstrate strong potential but require additional training iterations to stabilize performance.
-
-The findings highlight the importance of model scaling, pretrained weights, and transfer learning in low- to medium-sized datasets and present future directions including large-scale training on datasets exceeding 100,000 annotated samples for robust deployment in smart transportation systems and autonomous inspection vehicles.
-
----
-
-## Conclusion
-
-This study demonstrates that YOLOv8-M currently offers the best performance–efficiency trade-off for road damage detection tasks on medium-sized datasets. YOLOv11, although promising, requires extended training to fully exploit architecture improvements.
 
