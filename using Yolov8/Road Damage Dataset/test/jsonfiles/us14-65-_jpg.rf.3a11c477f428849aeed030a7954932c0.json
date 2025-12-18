@@ -1,0 +1,43 @@
+{
+    "image_name": "us14-65-_jpg.rf.3a11c477f428849aeed030a7954932c0.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:15",
+    "detections": [
+        {
+            "x": 258,
+            "y": 113,
+            "width": 129,
+            "height": 414,
+            "confidence": 0.91,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 412,
+            "y": 248,
+            "width": 71,
+            "height": 13,
+            "confidence": 0.673,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 112,
+            "y": 303,
+            "width": 102,
+            "height": 12,
+            "confidence": 0.593,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 395,
+            "y": 482,
+            "width": 132,
+            "height": 24,
+            "confidence": 0.388,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

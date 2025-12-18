@@ -1,0 +1,43 @@
+{
+    "image_name": "cracking1-31-_jpg.rf.dc4593b7415c6d08e048f836fe56f412.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:26",
+    "detections": [
+        {
+            "x": 180,
+            "y": 331,
+            "width": 110,
+            "height": 196,
+            "confidence": 0.938,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 418,
+            "y": 331,
+            "width": 110,
+            "height": 197,
+            "confidence": 0.915,
+            "class": "edge cracking",
+            "class_id": 1
+        },
+        {
+            "x": 111,
+            "y": 488,
+            "width": 58,
+            "height": 9,
+            "confidence": 0.474,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 281,
+            "y": 110,
+            "width": 9,
+            "height": 228,
+            "confidence": 0.324,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

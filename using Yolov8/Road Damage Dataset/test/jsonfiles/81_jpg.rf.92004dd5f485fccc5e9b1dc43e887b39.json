@@ -1,0 +1,34 @@
+{
+    "image_name": "81_jpg.rf.92004dd5f485fccc5e9b1dc43e887b39.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:38:49",
+    "detections": [
+        {
+            "x": 250,
+            "y": 382,
+            "width": 85,
+            "height": 146,
+            "confidence": 0.925,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 454,
+            "y": 112,
+            "width": 10,
+            "height": 35,
+            "confidence": 0.536,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 335,
+            "y": 112,
+            "width": 24,
+            "height": 22,
+            "confidence": 0.309,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "image_name": "img-455_jpg.rf.ff75925578e99b9d637fd86b363bf76e.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:43:18",
+    "detections": [
+        {
+            "x": 295,
+            "y": 190,
+            "width": 28,
+            "height": 42,
+            "confidence": 0.899,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 320,
+            "y": 129,
+            "width": 24,
+            "height": 25,
+            "confidence": 0.778,
+            "class": "patching",
+            "class_id": 3
+        }
+    ]
+}

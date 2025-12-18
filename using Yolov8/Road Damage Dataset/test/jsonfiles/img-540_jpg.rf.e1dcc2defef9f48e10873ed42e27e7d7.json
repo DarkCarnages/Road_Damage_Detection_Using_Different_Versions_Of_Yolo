@@ -1,0 +1,34 @@
+{
+    "image_name": "img-540_jpg.rf.e1dcc2defef9f48e10873ed42e27e7d7.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:43:42",
+    "detections": [
+        {
+            "x": 166,
+            "y": 111,
+            "width": 141,
+            "height": 173,
+            "confidence": 0.96,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 427,
+            "y": 285,
+            "width": 100,
+            "height": 242,
+            "confidence": 0.906,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 365,
+            "y": 293,
+            "width": 40,
+            "height": 11,
+            "confidence": 0.287,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

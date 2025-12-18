@@ -1,0 +1,34 @@
+{
+    "image_name": "patching-3-_jpg.rf.851bb284b2b419111ad848838c05577a.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:07",
+    "detections": [
+        {
+            "x": 278,
+            "y": 116,
+            "width": 96,
+            "height": 409,
+            "confidence": 0.811,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 145,
+            "y": 113,
+            "width": 82,
+            "height": 412,
+            "confidence": 0.794,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 280,
+            "y": 274,
+            "width": 95,
+            "height": 253,
+            "confidence": 0.595,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

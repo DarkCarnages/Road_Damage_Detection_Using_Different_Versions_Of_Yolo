@@ -1,0 +1,25 @@
+{
+    "image_name": "gsv_24_jpg.rf.07895bbed84fe28eac45964cd6068870.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:40:56",
+    "detections": [
+        {
+            "x": 481,
+            "y": 353,
+            "width": 47,
+            "height": 174,
+            "confidence": 0.813,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 111,
+            "y": 474,
+            "width": 153,
+            "height": 53,
+            "confidence": 0.78,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

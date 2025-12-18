@@ -1,0 +1,34 @@
+{
+    "image_name": "CFD_028_jpg.rf.da76d1ad51033de3680297d982eda0e8.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:00",
+    "detections": [
+        {
+            "x": 112,
+            "y": 149,
+            "width": 231,
+            "height": 86,
+            "confidence": 0.897,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 487,
+            "y": 294,
+            "width": 41,
+            "height": 234,
+            "confidence": 0.612,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 177,
+            "y": 305,
+            "width": 67,
+            "height": 223,
+            "confidence": 0.523,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

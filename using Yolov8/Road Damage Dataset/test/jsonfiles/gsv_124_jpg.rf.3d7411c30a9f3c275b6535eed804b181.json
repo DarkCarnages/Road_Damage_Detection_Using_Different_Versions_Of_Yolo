@@ -1,0 +1,70 @@
+{
+    "image_name": "gsv_124_jpg.rf.3d7411c30a9f3c275b6535eed804b181.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:40:43",
+    "detections": [
+        {
+            "x": 259,
+            "y": 367,
+            "width": 61,
+            "height": 13,
+            "confidence": 0.667,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 484,
+            "y": 366,
+            "width": 19,
+            "height": 159,
+            "confidence": 0.583,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 302,
+            "y": 112,
+            "width": 14,
+            "height": 255,
+            "confidence": 0.506,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 250,
+            "y": 369,
+            "width": 9,
+            "height": 160,
+            "confidence": 0.457,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 301,
+            "y": 140,
+            "width": 10,
+            "height": 228,
+            "confidence": 0.429,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 148,
+            "y": 112,
+            "width": 10,
+            "height": 257,
+            "confidence": 0.303,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 288,
+            "y": 400,
+            "width": 18,
+            "height": 124,
+            "confidence": 0.286,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

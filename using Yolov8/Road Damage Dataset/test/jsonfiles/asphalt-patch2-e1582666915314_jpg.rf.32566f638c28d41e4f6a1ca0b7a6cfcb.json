@@ -1,0 +1,34 @@
+{
+    "image_name": "asphalt-patch2-e1582666915314_jpg.rf.32566f638c28d41e4f6a1ca0b7a6cfcb.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:38:56",
+    "detections": [
+        {
+            "x": 111,
+            "y": 112,
+            "width": 121,
+            "height": 139,
+            "confidence": 0.97,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 232,
+            "y": 112,
+            "width": 296,
+            "height": 144,
+            "confidence": 0.963,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 232,
+            "y": 257,
+            "width": 71,
+            "height": 269,
+            "confidence": 0.917,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

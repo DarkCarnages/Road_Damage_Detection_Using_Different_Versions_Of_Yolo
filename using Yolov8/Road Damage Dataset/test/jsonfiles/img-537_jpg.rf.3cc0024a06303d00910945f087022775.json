@@ -1,0 +1,52 @@
+{
+    "image_name": "img-537_jpg.rf.3cc0024a06303d00910945f087022775.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:43:41",
+    "detections": [
+        {
+            "x": 154,
+            "y": 116,
+            "width": 110,
+            "height": 166,
+            "confidence": 0.952,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 355,
+            "y": 281,
+            "width": 9,
+            "height": 247,
+            "confidence": 0.554,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 114,
+            "y": 282,
+            "width": 20,
+            "height": 245,
+            "confidence": 0.549,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 376,
+            "y": 110,
+            "width": 10,
+            "height": 171,
+            "confidence": 0.479,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 123,
+            "y": 279,
+            "width": 15,
+            "height": 248,
+            "confidence": 0.29,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "image_name": "cracking-2-_jpg.rf.bbebad6495ace3d552d251c91090e667.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:09",
+    "detections": [
+        {
+            "x": 111,
+            "y": 374,
+            "width": 17,
+            "height": 154,
+            "confidence": 0.646,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 442,
+            "y": 373,
+            "width": 9,
+            "height": 155,
+            "confidence": 0.292,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

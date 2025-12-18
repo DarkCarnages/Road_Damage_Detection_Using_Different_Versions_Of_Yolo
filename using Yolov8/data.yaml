@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['alligator cracking', 'edge cracking', 'longitudinal cracking', 'patching', 'rutting', 'transverse cracking']
+
+roboflow:
+  workspace: baka-1ravj
+  project: road-damage-det
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/baka-1ravj/road-damage-det/dataset/4

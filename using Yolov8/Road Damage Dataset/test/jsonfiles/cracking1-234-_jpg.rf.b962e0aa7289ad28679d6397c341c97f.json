@@ -1,0 +1,34 @@
+{
+    "image_name": "cracking1-234-_jpg.rf.b962e0aa7289ad28679d6397c341c97f.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:24",
+    "detections": [
+        {
+            "x": 112,
+            "y": 311,
+            "width": 207,
+            "height": 216,
+            "confidence": 0.978,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 320,
+            "y": 310,
+            "width": 208,
+            "height": 217,
+            "confidence": 0.963,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 320,
+            "y": 112,
+            "width": 74,
+            "height": 199,
+            "confidence": 0.91,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

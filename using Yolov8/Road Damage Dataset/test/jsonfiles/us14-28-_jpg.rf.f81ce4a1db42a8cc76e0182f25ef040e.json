@@ -1,0 +1,70 @@
+{
+    "image_name": "us14-28-_jpg.rf.f81ce4a1db42a8cc76e0182f25ef040e.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:13",
+    "detections": [
+        {
+            "x": 328,
+            "y": 197,
+            "width": 200,
+            "height": 329,
+            "confidence": 0.941,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 328,
+            "y": 111,
+            "width": 94,
+            "height": 86,
+            "confidence": 0.924,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 146,
+            "y": 111,
+            "width": 119,
+            "height": 88,
+            "confidence": 0.884,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 332,
+            "y": 156,
+            "width": 197,
+            "height": 42,
+            "confidence": 0.729,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 131,
+            "y": 198,
+            "width": 11,
+            "height": 73,
+            "confidence": 0.347,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 228,
+            "y": 199,
+            "width": 18,
+            "height": 328,
+            "confidence": 0.321,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 418,
+            "y": 156,
+            "width": 110,
+            "height": 41,
+            "confidence": 0.296,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "image_name": "us14-82-_jpg.rf.0c1f8080f83023563c4f31ec2225829d.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:17",
+    "detections": [
+        {
+            "x": 178,
+            "y": 111,
+            "width": 108,
+            "height": 275,
+            "confidence": 0.929,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 305,
+            "y": 151,
+            "width": 64,
+            "height": 24,
+            "confidence": 0.728,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

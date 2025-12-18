@@ -1,0 +1,115 @@
+{
+    "image_name": "gsv_17_jpg.rf.8e40b2ddb42145bf812ea6dcd56191c4.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:40:50",
+    "detections": [
+        {
+            "x": 351,
+            "y": 123,
+            "width": 25,
+            "height": 207,
+            "confidence": 0.829,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 493,
+            "y": 158,
+            "width": 35,
+            "height": 24,
+            "confidence": 0.742,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 429,
+            "y": 169,
+            "width": 12,
+            "height": 161,
+            "confidence": 0.703,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 482,
+            "y": 319,
+            "width": 45,
+            "height": 11,
+            "confidence": 0.66,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 378,
+            "y": 153,
+            "width": 72,
+            "height": 9,
+            "confidence": 0.635,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 264,
+            "y": 333,
+            "width": 9,
+            "height": 195,
+            "confidence": 0.521,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 112,
+            "y": 332,
+            "width": 10,
+            "height": 195,
+            "confidence": 0.481,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 329,
+            "y": 246,
+            "width": 22,
+            "height": 7,
+            "confidence": 0.356,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 188,
+            "y": 112,
+            "width": 71,
+            "height": 221,
+            "confidence": 0.306,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 112,
+            "y": 336,
+            "width": 7,
+            "height": 191,
+            "confidence": 0.296,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 381,
+            "y": 152,
+            "width": 69,
+            "height": 8,
+            "confidence": 0.283,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 489,
+            "y": 254,
+            "width": 39,
+            "height": 10,
+            "confidence": 0.27,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

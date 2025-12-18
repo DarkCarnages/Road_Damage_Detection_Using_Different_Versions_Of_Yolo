@@ -1,0 +1,34 @@
+{
+    "image_name": "us24-9-_jpg.rf.23c3ebc998531da5f62dc7ba378d808a.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:18",
+    "detections": [
+        {
+            "x": 295,
+            "y": 221,
+            "width": 73,
+            "height": 70,
+            "confidence": 0.464,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 119,
+            "y": 112,
+            "width": 153,
+            "height": 8,
+            "confidence": 0.448,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 121,
+            "y": 111,
+            "width": 114,
+            "height": 8,
+            "confidence": 0.27,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

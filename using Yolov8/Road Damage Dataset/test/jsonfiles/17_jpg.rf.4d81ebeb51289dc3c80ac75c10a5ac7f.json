@@ -1,0 +1,16 @@
+{
+    "image_name": "17_jpg.rf.4d81ebeb51289dc3c80ac75c10a5ac7f.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:38:39",
+    "detections": [
+        {
+            "x": 369,
+            "y": 111,
+            "width": 120,
+            "height": 200,
+            "confidence": 0.937,
+            "class": "rutting",
+            "class_id": 4
+        }
+    ]
+}

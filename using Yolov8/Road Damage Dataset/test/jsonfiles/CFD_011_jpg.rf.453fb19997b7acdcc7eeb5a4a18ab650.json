@@ -1,0 +1,25 @@
+{
+    "image_name": "CFD_011_jpg.rf.453fb19997b7acdcc7eeb5a4a18ab650.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:38:59",
+    "detections": [
+        {
+            "x": 112,
+            "y": 134,
+            "width": 212,
+            "height": 78,
+            "confidence": 0.868,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 406,
+            "y": 112,
+            "width": 9,
+            "height": 75,
+            "confidence": 0.486,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

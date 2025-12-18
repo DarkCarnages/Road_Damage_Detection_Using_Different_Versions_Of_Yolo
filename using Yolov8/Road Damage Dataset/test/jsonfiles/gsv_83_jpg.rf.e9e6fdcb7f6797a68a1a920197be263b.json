@@ -1,0 +1,70 @@
+{
+    "image_name": "gsv_83_jpg.rf.e9e6fdcb7f6797a68a1a920197be263b.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:41:16",
+    "detections": [
+        {
+            "x": 111,
+            "y": 324,
+            "width": 41,
+            "height": 204,
+            "confidence": 0.897,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 328,
+            "y": 294,
+            "width": 88,
+            "height": 24,
+            "confidence": 0.87,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 415,
+            "y": 112,
+            "width": 20,
+            "height": 208,
+            "confidence": 0.805,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 328,
+            "y": 187,
+            "width": 78,
+            "height": 22,
+            "confidence": 0.797,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 184,
+            "y": 320,
+            "width": 19,
+            "height": 207,
+            "confidence": 0.694,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 438,
+            "y": 161,
+            "width": 89,
+            "height": 12,
+            "confidence": 0.595,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 328,
+            "y": 156,
+            "width": 80,
+            "height": 9,
+            "confidence": 0.561,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

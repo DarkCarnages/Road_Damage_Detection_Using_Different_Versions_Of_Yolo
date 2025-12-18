@@ -1,0 +1,43 @@
+{
+    "image_name": "us14-181-_jpg.rf.edb3c159f410eb8f8656070f126b3a7a.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:12",
+    "detections": [
+        {
+            "x": 126,
+            "y": 111,
+            "width": 115,
+            "height": 204,
+            "confidence": 0.936,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 151,
+            "y": 419,
+            "width": 79,
+            "height": 75,
+            "confidence": 0.825,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 293,
+            "y": 112,
+            "width": 19,
+            "height": 202,
+            "confidence": 0.435,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 259,
+            "y": 112,
+            "width": 19,
+            "height": 197,
+            "confidence": 0.359,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "image_name": "35_jpg.rf.134c6a98fc80853f9c0593ea177c4288.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:38:42",
+    "detections": [
+        {
+            "x": 272,
+            "y": 232,
+            "width": 166,
+            "height": 13,
+            "confidence": 0.524,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 256,
+            "y": 236,
+            "width": 195,
+            "height": 9,
+            "confidence": 0.423,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

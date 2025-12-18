@@ -1,0 +1,79 @@
+{
+    "image_name": "gsv_105_jpg.rf.470bcaff7d80d228a344cdbebb223a6b.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:40:40",
+    "detections": [
+        {
+            "x": 364,
+            "y": 420,
+            "width": 81,
+            "height": 107,
+            "confidence": 0.933,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 156,
+            "y": 426,
+            "width": 69,
+            "height": 20,
+            "confidence": 0.75,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 429,
+            "y": 299,
+            "width": 53,
+            "height": 113,
+            "confidence": 0.713,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 287,
+            "y": 111,
+            "width": 9,
+            "height": 187,
+            "confidence": 0.473,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 308,
+            "y": 111,
+            "width": 57,
+            "height": 187,
+            "confidence": 0.465,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 251,
+            "y": 299,
+            "width": 84,
+            "height": 227,
+            "confidence": 0.387,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 124,
+            "y": 299,
+            "width": 88,
+            "height": 205,
+            "confidence": 0.36,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 491,
+            "y": 343,
+            "width": 37,
+            "height": 21,
+            "confidence": 0.258,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

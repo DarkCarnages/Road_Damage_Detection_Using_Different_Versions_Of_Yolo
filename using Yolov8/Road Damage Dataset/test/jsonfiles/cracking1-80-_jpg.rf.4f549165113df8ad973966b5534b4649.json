@@ -1,0 +1,52 @@
+{
+    "image_name": "cracking1-80-_jpg.rf.4f549165113df8ad973966b5534b4649.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:30",
+    "detections": [
+        {
+            "x": 121,
+            "y": 112,
+            "width": 127,
+            "height": 26,
+            "confidence": 0.761,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 116,
+            "y": 112,
+            "width": 136,
+            "height": 19,
+            "confidence": 0.555,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 246,
+            "y": 111,
+            "width": 17,
+            "height": 213,
+            "confidence": 0.475,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 111,
+            "y": 312,
+            "width": 129,
+            "height": 11,
+            "confidence": 0.256,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 451,
+            "y": 322,
+            "width": 12,
+            "height": 205,
+            "confidence": 0.254,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

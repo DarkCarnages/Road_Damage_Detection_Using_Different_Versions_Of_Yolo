@@ -1,0 +1,43 @@
+{
+    "image_name": "Failed-Base-and-Rutting_jpg.rf.27e904b34988ca4c0838a2e55466f5aa.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:40:34",
+    "detections": [
+        {
+            "x": 112,
+            "y": 349,
+            "width": 235,
+            "height": 178,
+            "confidence": 0.979,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 348,
+            "y": 160,
+            "width": 67,
+            "height": 189,
+            "confidence": 0.903,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 247,
+            "y": 117,
+            "width": 98,
+            "height": 73,
+            "confidence": 0.847,
+            "class": "edge cracking",
+            "class_id": 1
+        },
+        {
+            "x": 347,
+            "y": 492,
+            "width": 180,
+            "height": 35,
+            "confidence": 0.494,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

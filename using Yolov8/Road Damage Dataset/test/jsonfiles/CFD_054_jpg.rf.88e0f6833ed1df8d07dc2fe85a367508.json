@@ -1,0 +1,16 @@
+{
+    "image_name": "CFD_054_jpg.rf.88e0f6833ed1df8d07dc2fe85a367508.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:05",
+    "detections": [
+        {
+            "x": 111,
+            "y": 141,
+            "width": 163,
+            "height": 44,
+            "confidence": 0.877,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

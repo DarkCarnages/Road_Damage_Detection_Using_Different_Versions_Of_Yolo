@@ -1,0 +1,16 @@
+{
+    "image_name": "image-asset_jpeg_jpg.rf.5dff630be381cd552509361e9f6298f0.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:41:21",
+    "detections": [
+        {
+            "x": 112,
+            "y": 112,
+            "width": 178,
+            "height": 201,
+            "confidence": 0.969,
+            "class": "patching",
+            "class_id": 3
+        }
+    ]
+}

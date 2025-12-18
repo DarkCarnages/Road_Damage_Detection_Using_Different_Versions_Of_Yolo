@@ -1,0 +1,43 @@
+{
+    "image_name": "water-filled-pothole-in-the-road_jpg.rf.040608b109afd48e0c7a1cac83f4dae0.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:18",
+    "detections": [
+        {
+            "x": 221,
+            "y": 317,
+            "width": 10,
+            "height": 212,
+            "confidence": 0.482,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 112,
+            "y": 113,
+            "width": 120,
+            "height": 108,
+            "confidence": 0.37,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 323,
+            "y": 142,
+            "width": 85,
+            "height": 173,
+            "confidence": 0.299,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 464,
+            "y": 315,
+            "width": 64,
+            "height": 165,
+            "confidence": 0.275,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

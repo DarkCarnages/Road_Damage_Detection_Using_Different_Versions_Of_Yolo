@@ -1,0 +1,97 @@
+{
+    "image_name": "c_im50_0_1_jpg.rf.b4a78fb8a316c8b9adf4574dc8ddae25.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:40:02",
+    "detections": [
+        {
+            "x": 112,
+            "y": 112,
+            "width": 183,
+            "height": 216,
+            "confidence": 0.979,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 112,
+            "y": 337,
+            "width": 147,
+            "height": 191,
+            "confidence": 0.958,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 466,
+            "y": 328,
+            "width": 62,
+            "height": 200,
+            "confidence": 0.886,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 234,
+            "y": 403,
+            "width": 61,
+            "height": 35,
+            "confidence": 0.867,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 431,
+            "y": 112,
+            "width": 91,
+            "height": 215,
+            "confidence": 0.846,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 417,
+            "y": 383,
+            "width": 23,
+            "height": 27,
+            "confidence": 0.747,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 428,
+            "y": 392,
+            "width": 95,
+            "height": 17,
+            "confidence": 0.616,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 431,
+            "y": 390,
+            "width": 89,
+            "height": 20,
+            "confidence": 0.604,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 464,
+            "y": 390,
+            "width": 56,
+            "height": 19,
+            "confidence": 0.528,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 464,
+            "y": 391,
+            "width": 63,
+            "height": 18,
+            "confidence": 0.351,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

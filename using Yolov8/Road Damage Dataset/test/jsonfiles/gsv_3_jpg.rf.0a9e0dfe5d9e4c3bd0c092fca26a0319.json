@@ -1,0 +1,16 @@
+{
+    "image_name": "gsv_3_jpg.rf.0a9e0dfe5d9e4c3bd0c092fca26a0319.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:41:10",
+    "detections": [
+        {
+            "x": 130,
+            "y": 175,
+            "width": 67,
+            "height": 343,
+            "confidence": 0.253,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

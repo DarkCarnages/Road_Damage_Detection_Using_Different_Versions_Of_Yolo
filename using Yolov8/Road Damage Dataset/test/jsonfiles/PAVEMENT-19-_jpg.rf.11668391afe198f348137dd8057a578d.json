@@ -1,0 +1,34 @@
+{
+    "image_name": "PAVEMENT-19-_jpg.rf.11668391afe198f348137dd8057a578d.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:09",
+    "detections": [
+        {
+            "x": 399,
+            "y": 111,
+            "width": 115,
+            "height": 159,
+            "confidence": 0.946,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 112,
+            "y": 460,
+            "width": 138,
+            "height": 68,
+            "confidence": 0.918,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 123,
+            "y": 112,
+            "width": 57,
+            "height": 158,
+            "confidence": 0.867,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

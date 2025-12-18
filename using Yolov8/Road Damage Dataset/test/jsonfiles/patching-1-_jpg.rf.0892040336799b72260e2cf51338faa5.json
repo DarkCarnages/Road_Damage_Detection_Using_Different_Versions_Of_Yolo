@@ -1,0 +1,70 @@
+{
+    "image_name": "patching-1-_jpg.rf.0892040336799b72260e2cf51338faa5.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:07",
+    "detections": [
+        {
+            "x": 441,
+            "y": 368,
+            "width": 87,
+            "height": 43,
+            "confidence": 0.892,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 344,
+            "y": 216,
+            "width": 184,
+            "height": 151,
+            "confidence": 0.871,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 450,
+            "y": 125,
+            "width": 78,
+            "height": 60,
+            "confidence": 0.844,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 111,
+            "y": 179,
+            "width": 233,
+            "height": 189,
+            "confidence": 0.703,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 186,
+            "y": 111,
+            "width": 158,
+            "height": 36,
+            "confidence": 0.614,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 341,
+            "y": 441,
+            "width": 180,
+            "height": 86,
+            "confidence": 0.469,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 185,
+            "y": 111,
+            "width": 106,
+            "height": 36,
+            "confidence": 0.293,
+            "class": "patching",
+            "class_id": 3
+        }
+    ]
+}

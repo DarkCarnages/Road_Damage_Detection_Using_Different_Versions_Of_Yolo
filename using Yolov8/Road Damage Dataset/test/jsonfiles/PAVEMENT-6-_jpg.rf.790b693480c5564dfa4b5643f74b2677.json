@@ -1,0 +1,16 @@
+{
+    "image_name": "PAVEMENT-6-_jpg.rf.790b693480c5564dfa4b5643f74b2677.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:10",
+    "detections": [
+        {
+            "x": 112,
+            "y": 111,
+            "width": 108,
+            "height": 237,
+            "confidence": 0.954,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "image_name": "cracking1-29-_jpg.rf.d4f1a596c32b94185e20927f338f701f.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:25",
+    "detections": [
+        {
+            "x": 373,
+            "y": 137,
+            "width": 78,
+            "height": 21,
+            "confidence": 0.822,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 190,
+            "y": 140,
+            "width": 99,
+            "height": 15,
+            "confidence": 0.796,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 111,
+            "y": 118,
+            "width": 24,
+            "height": 24,
+            "confidence": 0.699,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 301,
+            "y": 137,
+            "width": 53,
+            "height": 10,
+            "confidence": 0.504,
+            "class": "edge cracking",
+            "class_id": 1
+        },
+        {
+            "x": 373,
+            "y": 306,
+            "width": 65,
+            "height": 15,
+            "confidence": 0.409,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 463,
+            "y": 111,
+            "width": 9,
+            "height": 31,
+            "confidence": 0.378,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 335,
+            "y": 405,
+            "width": 40,
+            "height": 12,
+            "confidence": 0.369,
+            "class": "edge cracking",
+            "class_id": 1
+        }
+    ]
+}

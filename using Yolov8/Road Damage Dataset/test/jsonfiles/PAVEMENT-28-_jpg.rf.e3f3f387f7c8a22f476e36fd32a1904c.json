@@ -1,0 +1,16 @@
+{
+    "image_name": "PAVEMENT-28-_jpg.rf.e3f3f387f7c8a22f476e36fd32a1904c.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:10",
+    "detections": [
+        {
+            "x": 191,
+            "y": 111,
+            "width": 8,
+            "height": 49,
+            "confidence": 0.51,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

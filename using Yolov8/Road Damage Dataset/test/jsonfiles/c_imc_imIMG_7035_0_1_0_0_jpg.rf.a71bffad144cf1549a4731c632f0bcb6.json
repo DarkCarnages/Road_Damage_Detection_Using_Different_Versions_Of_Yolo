@@ -1,0 +1,16 @@
+{
+    "image_name": "c_imc_imIMG_7035_0_1_0_0_jpg.rf.a71bffad144cf1549a4731c632f0bcb6.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:40:22",
+    "detections": [
+        {
+            "x": 271,
+            "y": 332,
+            "width": 91,
+            "height": 195,
+            "confidence": 0.899,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

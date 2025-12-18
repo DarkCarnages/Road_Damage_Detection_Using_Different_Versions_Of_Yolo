@@ -1,0 +1,16 @@
+{
+    "image_name": "gsv_325_jpg.rf.13900195bdf0aa001c72835ac234884b.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:41:07",
+    "detections": [
+        {
+            "x": 218,
+            "y": 112,
+            "width": 11,
+            "height": 184,
+            "confidence": 0.417,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

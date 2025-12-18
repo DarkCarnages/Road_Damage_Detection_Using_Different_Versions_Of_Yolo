@@ -1,0 +1,25 @@
+{
+    "image_name": "img-634_jpg.rf.de29f5edc8a455bb248dc4d559779f6a.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:43:58",
+    "detections": [
+        {
+            "x": 297,
+            "y": 115,
+            "width": 231,
+            "height": 81,
+            "confidence": 0.887,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 463,
+            "y": 218,
+            "width": 64,
+            "height": 83,
+            "confidence": 0.611,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

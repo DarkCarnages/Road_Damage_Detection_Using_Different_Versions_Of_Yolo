@@ -1,0 +1,25 @@
+{
+    "image_name": "gsv_88_jpg.rf.fe0dd1527c96961a7bdf83de27c85c45.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:41:17",
+    "detections": [
+        {
+            "x": 290,
+            "y": 398,
+            "width": 238,
+            "height": 127,
+            "confidence": 0.939,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 272,
+            "y": 112,
+            "width": 15,
+            "height": 207,
+            "confidence": 0.661,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

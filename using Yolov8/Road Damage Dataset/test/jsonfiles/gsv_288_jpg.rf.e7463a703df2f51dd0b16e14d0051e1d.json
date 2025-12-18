@@ -1,0 +1,16 @@
+{
+    "image_name": "gsv_288_jpg.rf.e7463a703df2f51dd0b16e14d0051e1d.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:41:00",
+    "detections": [
+        {
+            "x": 345,
+            "y": 111,
+            "width": 11,
+            "height": 176,
+            "confidence": 0.51,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

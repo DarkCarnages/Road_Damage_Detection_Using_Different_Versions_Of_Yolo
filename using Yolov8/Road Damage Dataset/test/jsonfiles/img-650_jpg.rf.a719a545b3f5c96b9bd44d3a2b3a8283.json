@@ -1,0 +1,70 @@
+{
+    "image_name": "img-650_jpg.rf.a719a545b3f5c96b9bd44d3a2b3a8283.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:43:59",
+    "detections": [
+        {
+            "x": 358,
+            "y": 111,
+            "width": 123,
+            "height": 191,
+            "confidence": 0.93,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 111,
+            "y": 303,
+            "width": 60,
+            "height": 225,
+            "confidence": 0.85,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 208,
+            "y": 483,
+            "width": 90,
+            "height": 20,
+            "confidence": 0.761,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 194,
+            "y": 302,
+            "width": 12,
+            "height": 226,
+            "confidence": 0.588,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 207,
+            "y": 331,
+            "width": 91,
+            "height": 10,
+            "confidence": 0.404,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 387,
+            "y": 303,
+            "width": 8,
+            "height": 224,
+            "confidence": 0.362,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 195,
+            "y": 303,
+            "width": 8,
+            "height": 221,
+            "confidence": 0.259,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

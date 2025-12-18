@@ -1,0 +1,25 @@
+{
+    "image_name": "cracking-83-_jpg.rf.014f48a3d4cd2fd0a6392658dd55f4dc.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:15",
+    "detections": [
+        {
+            "x": 391,
+            "y": 421,
+            "width": 47,
+            "height": 15,
+            "confidence": 0.766,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 192,
+            "y": 111,
+            "width": 34,
+            "height": 81,
+            "confidence": 0.657,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

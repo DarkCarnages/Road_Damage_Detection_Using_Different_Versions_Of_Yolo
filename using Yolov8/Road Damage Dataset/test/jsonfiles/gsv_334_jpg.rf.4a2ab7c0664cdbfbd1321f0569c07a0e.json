@@ -1,0 +1,79 @@
+{
+    "image_name": "gsv_334_jpg.rf.4a2ab7c0664cdbfbd1321f0569c07a0e.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:41:09",
+    "detections": [
+        {
+            "x": 184,
+            "y": 344,
+            "width": 80,
+            "height": 147,
+            "confidence": 0.905,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 267,
+            "y": 344,
+            "width": 26,
+            "height": 184,
+            "confidence": 0.866,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 142,
+            "y": 112,
+            "width": 13,
+            "height": 43,
+            "confidence": 0.556,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 450,
+            "y": 343,
+            "width": 9,
+            "height": 185,
+            "confidence": 0.552,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 237,
+            "y": 116,
+            "width": 8,
+            "height": 228,
+            "confidence": 0.477,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 234,
+            "y": 116,
+            "width": 10,
+            "height": 228,
+            "confidence": 0.415,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 270,
+            "y": 379,
+            "width": 20,
+            "height": 148,
+            "confidence": 0.331,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 273,
+            "y": 509,
+            "width": 14,
+            "height": 18,
+            "confidence": 0.271,
+            "class": "patching",
+            "class_id": 3
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "image_name": "cracking2-76-_jpg.rf.b92c0cde412afd684f74c6e946bf6dec.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:54",
+    "detections": [
+        {
+            "x": 282,
+            "y": 357,
+            "width": 22,
+            "height": 170,
+            "confidence": 0.834,
+            "class": "patching",
+            "class_id": 3
+        },
+        {
+            "x": 112,
+            "y": 359,
+            "width": 38,
+            "height": 30,
+            "confidence": 0.735,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "image_name": "gsv_66_jpg.rf.a2b747ceb1f52b1dbd5890c941664ae2.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:41:15",
+    "detections": [
+        {
+            "x": 284,
+            "y": 378,
+            "width": 9,
+            "height": 146,
+            "confidence": 0.436,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        },
+        {
+            "x": 253,
+            "y": 476,
+            "width": 31,
+            "height": 17,
+            "confidence": 0.29,
+            "class": "transverse cracking",
+            "class_id": 5
+        },
+        {
+            "x": 282,
+            "y": 378,
+            "width": 10,
+            "height": 148,
+            "confidence": 0.261,
+            "class": "longitudinal cracking",
+            "class_id": 2
+        }
+    ]
+}

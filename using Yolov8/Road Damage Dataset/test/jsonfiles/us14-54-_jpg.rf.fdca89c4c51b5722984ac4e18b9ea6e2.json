@@ -1,0 +1,25 @@
+{
+    "image_name": "us14-54-_jpg.rf.fdca89c4c51b5722984ac4e18b9ea6e2.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:44:14",
+    "detections": [
+        {
+            "x": 145,
+            "y": 111,
+            "width": 115,
+            "height": 191,
+            "confidence": 0.933,
+            "class": "rutting",
+            "class_id": 4
+        },
+        {
+            "x": 451,
+            "y": 224,
+            "width": 76,
+            "height": 67,
+            "confidence": 0.771,
+            "class": "alligator cracking",
+            "class_id": 0
+        }
+    ]
+}

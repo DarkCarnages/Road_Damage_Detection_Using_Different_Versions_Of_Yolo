@@ -1,0 +1,25 @@
+{
+    "image_name": "CFD_038_jpg.rf.ee908ba455c11f96db4d8bb2e1fea3c4.jpg",
+    "model_used": "best.pt",
+    "timestamp": "2025-11-21 11:39:01",
+    "detections": [
+        {
+            "x": 112,
+            "y": 311,
+            "width": 298,
+            "height": 216,
+            "confidence": 0.983,
+            "class": "alligator cracking",
+            "class_id": 0
+        },
+        {
+            "x": 109,
+            "y": 212,
+            "width": 301,
+            "height": 99,
+            "confidence": 0.918,
+            "class": "transverse cracking",
+            "class_id": 5
+        }
+    ]
+}
