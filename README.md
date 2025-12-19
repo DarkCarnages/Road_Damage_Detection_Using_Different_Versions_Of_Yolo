@@ -47,6 +47,10 @@ Each YOLO version has its own directory with trained models, inference scripts, 
 * Contains an `infer/` directory
 * Stores **bounding-box annotated images** from inference
 
+### Yolov7
+
+Github link for it - https://github.com/sachin23052005/Road_damage_detection_using_Yolov7
+
 ---
 
 ## 🧠 Final Model Selection Logic
